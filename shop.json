@@ -1,0 +1,68 @@
+[
+  {
+    "id": "watch-chronograph-911-gt3-rs",
+    "title": "Porsche Design Chronograph 911 GT3 RS",
+    "category": "Timepieces",
+    "price": 10500,
+    "currency": "EUR",
+    "description": "Exclusive timepiece powered by the COSC-certified Porsche Design caliber WERK 01.200 with flyback function. Titanium case with black titanium carbide coating and winding rotor modelled on the GT3 RS lightweight forged rim.",
+    "image": "https://monochrome-watches.com/app/uploads/2022/08/Porsche-Design-Chronograph-911-GT3-RS-1.jpg",
+    "badge": "Limited Edition",
+    "inStock": true
+  },
+  {
+    "id": "jacket-motorsport-heritage",
+    "title": "Porsche Motorsport Softshell Team Jacket",
+    "category": "Apparel",
+    "price": 320,
+    "currency": "EUR",
+    "description": "Official team jacket of the Porsche Motorsport Works Team. Windproof and waterproof technical fabric with reflective Porsche branding and sponsor logos.",
+    "image": "https://watchthecarr.com/cdn/shop/files/porsche-heritage-motorsport-jacket-on-models-front-back.webp?v=1779053397&width=1024",
+    "badge": "Motorsport Collection",
+    "inStock": true
+  },
+  {
+    "id": "model-car-911-gt3-rs-1-18",
+    "title": "Collector Diecast Model: 911 GT3 RS 1:18 (Guards Red)",
+    "category": "Models & Toys",
+    "price": 285,
+    "currency": "EUR",
+    "description": "High-detail resin model in 1:18 scale. Features genuine interior carpeting, steerable front wheels, opening doors, and accurate aerodynamic Weissach aero package reproduction.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXVbtmzA-cCUG37Z7NJo81oJVlzxztk2S5xRutcFuSV518a5Rq-hnf0SU&s=10",
+    "badge": "Collector Series",
+    "inStock": true
+  },
+  {
+    "id": "sunglasses-p8478",
+    "title": "Porsche Design Sunglasses P´8478 Iconic Aviator",
+    "category": "Accessories",
+    "price": 490,
+    "currency": "EUR",
+    "description": "The world's first sunglasses with an interchangeable lens system. Ultra-light pure titanium frame and polycarbonate lenses with scratch-resistant coating and 100% UV protection.",
+    "image": "https://shop.porsche.com/_next/image?url=https%3A%2F%2Fproduct-domain-assets.ppim.aws.porsche.cloud%2Fporsche-prod%2F25%2F10%2F20%2F10141%2F4044709542757-010.webp&w=3840&q=75",
+    "badge": "Iconic Design",
+    "inStock": true
+  },
+  {
+    "id": "luggage-roadster-hardcase",
+    "title": "Roadster Hardcase Trolley M - Dark Titanium",
+    "category": "Luggage",
+    "price": 790,
+    "currency": "EUR",
+    "description": "Robust and lightweight polycarbonate luggage engineered to perfectly fit into the front luggage compartment of all Porsche 911 and 718 models. Features ball-bearing wheels and TSA lock.",
+    "image": "https://shop.porsche.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F1oyzmkwpf3d5%2F4REPT0Qkzl3TLWRPDXzZfO%2F4f80e18179c04b040c81a6a360fc2d50%2FRoadster_Lifestyle.jpg&w=3840&q=75",
+    "badge": "Travel Essential",
+    "inStock": true
+  },
+  {
+    "id": "soundbar-911-special-edition",
+    "title": "Porsche 911 Soundbar 2.0 Pro - Original Exhaust",
+    "category": "Audio & Electronics",
+    "price": 3900,
+    "currency": "EUR",
+    "description": "2.1.2 virtual surround system crafted from the original exhaust system of the current Porsche 911 GT3. 300 watts system output, Dolby Atmos, 4K HDMI pass-through and Apple AirPlay 2.",
+    "image": "https://store.porsche.com.sg/cdn/shop/files/0001299_911-soundbar-20-pro-ltd-edition.jpg?v=1738680756&width=1946",
+    "badge": "Limited to 500 Pcs",
+    "inStock": true
+  }
+]

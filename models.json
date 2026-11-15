@@ -1,0 +1,243 @@
+[
+  {
+    "id": "911-gt3-rs",
+    "name": "911 GT3 RS",
+    "family": "911",
+    "familyTitle": "911",
+    "category": "Coupe",
+    "fuelType": "Petrol",
+    "startingPrice": 248200,
+    "currency": "EUR",
+    "powerKw": 386,
+    "powerHp": 525,
+    "acceleration": "3.2 s",
+    "topSpeed": "296 km/h",
+    "transmission": "7-speed Porsche Doppelkupplung (PDK)",
+    "drivetrain": "Rear-wheel drive",
+    "consumption": "13.4 l/100 km",
+    "co2": "305 g/km",
+    "tagline": "Timeless machine. Extreme aerodynamics.",
+    "description": "Athletic, purposeful and focused on pure lap times. The 911 GT3 RS features active DRS aerodynamics, intelligent lightweight carbon construction, and an uncompromising 4.0-litre naturally aspirated engine revving to 9,000 rpm.",
+    "heroImage": "https://images.pistonheads.com/nimg/47438/blobid0.jpg",
+    "gallery": [
+      "https://images.pistonheads.com/nimg/47438/blobid0.jpg",
+      "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?auto=format&fit=crop&w=1600&q=90"
+    ],
+    "colors": [
+      { "id": "guards-red", "name": "Guards Red", "hex": "#c3001e", "type": "Special", "price": 0 },
+      { "id": "racing-yellow", "name": "Racing Yellow", "hex": "#fad403", "type": "Special", "price": 0 },
+      { "id": "gt-silver", "name": "GT Silver Metallic", "hex": "#9e9e9e", "type": "Metallic", "price": 1250 },
+      { "id": "python-green", "name": "Python Green", "hex": "#1b6938", "type": "Special", "price": 3600 },
+      { "id": "carrara-white", "name": "Carrara White Metallic", "hex": "#f5f5f7", "type": "Metallic", "price": 1250 },
+      { "id": "jet-black", "name": "Jet Black Metallic", "hex": "#111111", "type": "Metallic", "price": 1250 },
+      { "id": "crayon", "name": "Chalk / Crayon", "hex": "#c5c5c0", "type": "Special", "price": 3600 }
+    ],
+    "wheels": [
+      { "id": "gt3-rs-forged", "name": "20/21-inch GT3 RS Forged Lightweight Wheels in Satin Black", "price": 0, "size": "20/21 inch" },
+      { "id": "gt3-rs-pyramid", "name": "20/21-inch GT3 RS Magnesium Lightweight Wheels (Weissach)", "price": 13900, "size": "20/21 inch" },
+      { "id": "gt3-rs-pyro-red", "name": "20/21-inch GT3 RS Wheels painted in Pyro Red", "price": 600, "size": "20/21 inch" }
+    ],
+    "interiors": [
+      { "id": "race-tex-black", "name": "Standard Interior in Black Race-Tex with GT Silver Stitching", "price": 0, "colorHex": "#1a1a1a" },
+      { "id": "race-tex-guards-red", "name": "Interior with extensive Race-Tex / Leather items, Guards Red accent", "price": 4200, "colorHex": "#7a0010" },
+      { "id": "leather-black-chalk", "name": "Leather/Race-Tex Interior Weissach Package in Deep Black & Chalk", "price": 6800, "colorHex": "#2b2b2b" }
+    ],
+    "packages": [
+      { "id": "weissach-package", "name": "Weissach Package with Exposed Carbon Elements", "price": 35700, "category": "Performance" },
+      { "id": "front-axle-lift", "name": "Front Axle Lift System with Smart Lift Memory", "price": 3150, "category": "Chassis" },
+      { "id": "pccb-ceramic-brakes", "name": "Porsche Ceramic Composite Brake (PCCB) with Yellow Calipers", "price": 9300, "category": "Performance" },
+      { "id": "bose-surround", "name": "BOSE® Surround Sound System", "price": 1420, "category": "Audio" }
+    ]
+  },
+  {
+    "id": "taycan-turbo-gt",
+    "name": "Taycan Turbo GT",
+    "family": "taycan",
+    "familyTitle": "Taycan",
+    "category": "Sedan",
+    "fuelType": "All-Electric",
+    "startingPrice": 240000,
+    "currency": "EUR",
+    "powerKw": 760,
+    "powerHp": 1034,
+    "acceleration": "2.2 s",
+    "topSpeed": "305 km/h",
+    "transmission": "2-speed transmission on the rear axle",
+    "drivetrain": "All-wheel drive with Porsche Torque Vectoring Plus",
+    "consumption": "20.7 kWh/100 km",
+    "co2": "0 g/km",
+    "range": "Up to 555 km",
+    "tagline": "Soul, electrified. 1,034 horsepower.",
+    "description": "Peak electric performance. With Attack Mode providing an instant 120 kW boost, revolutionary Porsche Active Ride suspension, and advanced aerodynamics, the Taycan Turbo GT redefines high-voltage driving emotion.",
+    "heroImage": "https://hips.hearstapps.com/hmg-prod/images/2025-porsche-taycan-turbo-gt-weissach-118-6838612029974.jpg?crop=0.619xw:0.522xh;0.153xw,0.347xh&resize=1200:*",
+    "gallery": [
+      "https://hips.hearstapps.com/hmg-prod/images/2025-porsche-taycan-turbo-gt-weissach-118-6838612029974.jpg?crop=0.619xw:0.522xh;0.153xw,0.347xh&resize=1200:*",
+      "https://images.unsplash.com/photo-1617788138017-80ad40651399?auto=format&fit=crop&w=1600&q=90"
+    ],
+    "colors": [
+      { "id": "frozen-blue", "name": "Frozen Blue Metallic", "hex": "#6c93b5", "type": "Metallic", "price": 1250 },
+      { "id": "shade-green", "name": "Shade Green Metallic", "hex": "#4a594d", "type": "Metallic", "price": 1250 },
+      { "id": "white", "name": "White", "hex": "#ffffff", "type": "Standard", "price": 0 }
+    ],
+    "wheels": [
+      { "id": "taycan-turbo-gt-forged", "name": "21-inch Turbo GT Forged Lightweight Wheels in Satin Black", "price": 0, "size": "21 inch" }
+    ],
+    "interiors": [
+      { "id": "race-tex-gt-silver", "name": "Race-Tex Interior with GT Silver highlights & Carbon Full Bucket Seats", "price": 0, "colorHex": "#151515" }
+    ],
+    "packages": [
+      { "id": "weissach-package-taycan", "name": "Weissach Package (Lightweight aero, saves 75kg, 0-100 in 2.2s)", "price": 0, "category": "Performance" }
+    ]
+  },
+  {
+    "id": "718-cayman-gt4-rs",
+    "name": "718 Cayman GT4 RS",
+    "family": "718",
+    "familyTitle": "718",
+    "category": "Coupe",
+    "fuelType": "Petrol",
+    "startingPrice": 158700,
+    "currency": "EUR",
+    "powerKw": 368,
+    "powerHp": 500,
+    "acceleration": "3.4 s",
+    "topSpeed": "315 km/h",
+    "transmission": "7-speed Porsche Doppelkupplung (PDK)",
+    "drivetrain": "Rear-wheel drive (Mid-engine)",
+    "consumption": "13.2 l/100 km",
+    "co2": "299 g/km",
+    "tagline": "For the sport of it. Pure mid-engine perfection.",
+    "description": "Designed for pure driving bliss. The 4.0-litre naturally aspirated flat-six from the 911 GT3 sits right behind your head, breathing through intake ducts behind the driver and passenger windows, screaming to 9,000 rpm.",
+    "heroImage": "https://pictures.porsche.com/rtt/iris?COSY-EU-100-1711coMvsi60AAt5FwcmBEgA4qP8iBUDxPE3Cb9pNXkBuNYdMGF4tl3U0%25z8rMHIspbWvanYb%255y%25oq%25vSTmjMXD4qAZeoNBPUSfUx4RmHlCgI7Zl2dioCx3hQDcFGDZuWXsOWbteV6iTWXIzhRc2uaEqA7fQrp9OJtWFnQbNWMbdJvgzyko6c09ItDVW8uw",
+    "gallery": [
+      "https://pictures.porsche.com/rtt/iris?COSY-EU-100-1711coMvsi60AAt5FwcmBEgA4qP8iBUDxPE3Cb9pNXkBuNYdMGF4tl3U0%25z8rMHIspbWvanYb%255y%25oq%25vSTmjMXD4qAZeoNBPUSfUx4RmHlCgI7Zl2dioCx3hQDcFGDZuWXsOWbteV6iTWXIzhRc2uaEqA7fQrp9OJtWFnQbNWMbdJvgzyko6c09ItDVW8uw",
+      "https://images.unsplash.com/photo-1580273916550-e323be2ae537?auto=format&fit=crop&w=1600&q=90"
+    ],
+    "colors": [
+      { "id": "shark-blue", "name": "Shark Blue", "hex": "#0e5a9c", "type": "Special", "price": 3100 },
+      { "id": "arctic-grey", "name": "Arctic Grey", "hex": "#7d848c", "type": "Special", "price": 3100 },
+      { "id": "racing-yellow", "name": "Racing Yellow", "hex": "#fbd504", "type": "Special", "price": 0 }
+    ],
+    "wheels": [
+      { "id": "gt4-rs-forged-20", "name": "20-inch 718 Cayman GT4 RS Forged Aluminum Wheels", "price": 0, "size": "20 inch" }
+    ],
+    "interiors": [
+      { "id": "race-tex-gt4-arctic", "name": "Race-Tex Interior with Arctic Grey highlights", "price": 0, "colorHex": "#181818" }
+    ],
+    "packages": [
+      { "id": "gt4-weissach-package", "name": "Weissach Package with Carbon Fibre Front Lid & Rear Wing", "price": 15800, "category": "Performance" }
+    ]
+  },
+  {
+    "id": "panamera-turbo-e-hybrid",
+    "name": "Panamera Turbo E-Hybrid",
+    "family": "panamera",
+    "familyTitle": "Panamera",
+    "category": "Sedan",
+    "fuelType": "E-Hybrid",
+    "startingPrice": 192500,
+    "currency": "EUR",
+    "powerKw": 500,
+    "powerHp": 680,
+    "acceleration": "3.2 s",
+    "topSpeed": "315 km/h",
+    "transmission": "8-speed Porsche Doppelkupplung (PDK)",
+    "drivetrain": "All-wheel drive",
+    "consumption": "1.7 - 1.2 l/100 km",
+    "co2": "38 g/km",
+    "tagline": "The sports car of luxury sedans. 680 hp.",
+    "description": "Executive luxury engineered with sports car agility. The 4.0-litre V8 twin-turbo pairs with a responsive electric motor and the revolutionary Porsche Active Ride suspension system for peerless stability and comfort.",
+    "heroImage": "https://prs.porsche.com/iod/image/UZ/YAAFH1/1/N4Igxg9gdgZglgcxALlAQynAtmgLnaAZxQG0BdAGnDSwFMAnNFUOAExRFoA9cBaAGwgB3XjHrQ+-WjFwgqEAA74izEADc09OBlnIQrWoQDWuRSAC+5qrShq44qHSi6W7PQHk0hOMXlKCUMSollT8iAAW+FBIqCBsHAAiAIIAmnIgisqBzCEgCuKsAK5gLnFuIClJSQBiABIAjOmZAUGgkLCIpCAADACK6fUAKgBM6QAs1aNUYwDiANLpAKwAGgDC6QBsSQDsm3MAnOnbG+tU20kLZ3MAzOn7AAqHVPsAWgCi6av7AFLpbwDKtyoM3qM3SAEkAOrddJzJIbdIAGRmgwSACVEelet0EVRevVfniAGpAkBExFTMn-ECUcAQQrOegATw4AFUXuksBADPwUrRNChht1httLFYQIRaLgoghWiAYBB6DhdCAAFYKWhIKi4RiBBSaGy6GBofiSyxAA?clientId=icc",
+    "gallery": [
+      "https://prs.porsche.com/iod/image/UZ/YAAFH1/1/N4Igxg9gdgZglgcxALlAQynAtmgLnaAZxQG0BdAGnDSwFMAnNFUOAExRFoA9cBaAGwgB3XjHrQ+-WjFwgqEAA74izEADc09OBlnIQrWoQDWuRSAC+5qrShq44qHSi6W7PQHk0hOMXlKCUMSollT8iAAW+FBIqCBsHAAiAIIAmnIgisqBzCEgCuKsAK5gLnFuIClJSQBiABIAjOmZAUGgkLCIpCAADACK6fUAKgBM6QAs1aNUYwDiANLpAKwAGgDC6QBsSQDsm3MAnOnbG+tU20kLZ3MAzOn7AAqHVPsAWgCi6av7AFLpbwDKtyoM3qM3SAEkAOrddJzJIbdIAGRmgwSACVEelet0EVRevVfniAGpAkBExFTMn-ECUcAQQrOegATw4AFUXuksBADPwUrRNChht1httLFYQIRaLgoghWiAYBB6DhdCAAFYKWhIKi4RiBBSaGy6GBofiSyxAA?clientId=icc"
+    ],
+    "colors": [
+      { "id": "turbonite", "name": "Turbonite Metallic Exclusive Accent", "hex": "#5e5855", "type": "Special", "price": 2800 },
+      { "id": "jet-black", "name": "Jet Black Metallic", "hex": "#111111", "type": "Metallic", "price": 1250 }
+    ],
+    "wheels": [
+      { "id": "panamera-turbo-21", "name": "21-inch Panamera SportDesign Wheels in Turbonite", "price": 0, "size": "21 inch" }
+    ],
+    "interiors": [
+      { "id": "leather-turbonite", "name": "Smooth-Finish Leather Interior in Black with Turbonite Accents", "price": 0, "colorHex": "#212121" }
+    ],
+    "packages": [
+      { "id": "porsche-active-ride-panamera", "name": "Porsche Active Ride Suspension", "price": 8500, "category": "Chassis" }
+    ]
+  },
+  {
+    "id": "macan-turbo-electric",
+    "name": "Macan Turbo Electric",
+    "family": "macan",
+    "familyTitle": "Macan",
+    "category": "SUV",
+    "fuelType": "All-Electric",
+    "startingPrice": 114600,
+    "currency": "EUR",
+    "powerKw": 470,
+    "powerHp": 639,
+    "acceleration": "3.3 s",
+    "topSpeed": "260 km/h",
+    "transmission": "Single-speed transmission on front and rear axles",
+    "drivetrain": "All-wheel drive with Porsche Traction Management (ePTM)",
+    "consumption": "18.8 - 20.7 kWh/100 km",
+    "electricRange": "Up to 591 km",
+    "co2": "0 g/km",
+    "tagline": "Keep your essence. The all-electric Macan.",
+    "description": "Sportscar soul meets progressive electric SUV versatility. Powered by an 800-volt architecture for ultra-fast 270 kW DC charging, standard air suspension, and optional rear-axle steering for razor-sharp agility.",
+    "heroImage": "https://ev-database.org/img/auto/Porsche_Macan_Turbo_2024/Porsche_Macan_Turbo_2024-01@2x.jpg",
+    "gallery": [
+      "https://ev-database.org/img/auto/Porsche_Macan_Turbo_2024/Porsche_Macan_Turbo_2024-01@2x.jpg"
+    ],
+    "colors": [
+      { "id": "provence", "name": "Provence Lilac", "hex": "#9c98ab", "type": "Special", "price": 2400 },
+      { "id": "white", "name": "White", "hex": "#ffffff", "type": "Standard", "price": 0 }
+    ],
+    "wheels": [
+      { "id": "macan-turbo-22", "name": "22-inch Macan Style Exclusive Wheels", "price": 2800, "size": "22 inch" }
+    ],
+    "interiors": [
+      { "id": "leather-turbonite-macan", "name": "Extended Leather Package in Black with Turbonite Accents", "price": 0, "colorHex": "#1a1a1a" }
+    ],
+    "packages": [
+      { "id": "ar-hud", "name": "Augmented Reality Head-Up Display", "price": 2200, "category": "Assistance" }
+    ]
+  },
+  {
+    "id": "cayenne-turbo-e-hybrid",
+    "name": "Cayenne Turbo E-Hybrid Coupe",
+    "family": "cayenne",
+    "familyTitle": "Cayenne",
+    "category": "SUV Coupe",
+    "fuelType": "E-Hybrid",
+    "startingPrice": 182700,
+    "currency": "EUR",
+    "powerKw": 544,
+    "powerHp": 739,
+    "acceleration": "3.7 s",
+    "topSpeed": "295 km/h",
+    "transmission": "8-speed Tiptronic S",
+    "drivetrain": "All-wheel drive",
+    "consumption": "1.9 - 1.7 l/100 km",
+    "co2": "42 g/km",
+    "tagline": "Together, we drive further. Sports car feeling for five.",
+    "description": "The most powerful Cayenne of all time. Combining twin-turbo V8 propulsion with electric hybrid capability, standard adaptive air suspension, and optional GT Package with carbon roof and titanium sports exhaust.",
+    "heroImage": "https://a.storyblok.com/f/322327/1300x1300/eaafc83374/cy24j5tox0012-exterior.jpg/m/760x668/smart/filters:format(webp)",
+    "gallery": [
+      "https://a.storyblok.com/f/322327/1300x1300/eaafc83374/cy24j5tox0012-exterior.jpg/m/760x668/smart/filters:format(webp)"
+    ],
+    "colors": [
+      { "id": "arctic-grey-cayenne", "name": "Arctic Grey", "hex": "#82878d", "type": "Special", "price": 2900 },
+      { "id": "carrara-white", "name": "Carrara White Metallic", "hex": "#f5f5f7", "type": "Metallic", "price": 1150 }
+    ],
+    "wheels": [
+      { "id": "cayenne-turbo-gt-22", "name": "22-inch GT Design Wheels in Satin Neodyme", "price": 3100, "size": "22 inch" }
+    ],
+    "interiors": [
+      { "id": "leather-black-turbonite", "name": "Leather Interior in Black with Turbonite Accents", "price": 0, "colorHex": "#181818" }
+    ],
+    "packages": [
+      { "id": "gt-package-cayenne", "name": "GT Package with Carbon Roof & Titanium Exhaust", "price": 26900, "category": "Performance" }
+    ]
+  }
+]

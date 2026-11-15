@@ -1,0 +1,98 @@
+[
+  {
+    "id": "pc-stuttgart",
+    "name": "Porsche Centre Stuttgart-Zuffenhausen",
+    "city": "Stuttgart",
+    "country": "Germany",
+    "address": "Porscheplatz 9, 70435 Stuttgart",
+    "phone": "+49 711 911-25500",
+    "email": "info@porsche-stuttgart.de",
+    "openingHours": "Mon - Fri: 08:00 - 18:30, Sat: 09:00 - 14:00",
+    "coordinates": { "lat": 48.8354, "lng": 9.1518 },
+    "services": ["New Vehicles", "Porsche Approved Pre-Owned", "Exclusive Manufaktur Partner", "Porsche Classic Partner", "DC High-Power Charging"]
+  },
+  {
+    "id": "pc-london-mayfair",
+    "name": "Porsche Centre London Mayfair",
+    "city": "London",
+    "country": "United Kingdom",
+    "address": "Berkeley Square House, Berkeley Square, London W1J 6BD",
+    "phone": "+44 20 7514 0900",
+    "email": "mayfair@porsche.co.uk",
+    "openingHours": "Mon - Fri: 08:30 - 18:00, Sat: 09:00 - 17:00",
+    "coordinates": { "lat": 51.5095, "lng": -0.1458 },
+    "services": ["New Vehicles", "Exclusive Manufaktur Partner", "VIP Customer Lounge", "Test Drive Center"]
+  },
+  {
+    "id": "pc-munich",
+    "name": "Porsche Centre Munich Olympiapark",
+    "city": "Munich",
+    "country": "Germany",
+    "address": "Triebstraße 37, 80993 Munich",
+    "phone": "+49 89 1433-0",
+    "email": "info@porsche-muenchen.de",
+    "openingHours": "Mon - Fri: 07:30 - 18:30, Sat: 09:00 - 14:00",
+    "coordinates": { "lat": 48.1812, "lng": 11.5312 },
+    "services": ["New Vehicles", "Porsche Approved Pre-Owned", "Motorsport Support", "Taycan Fast Charging Hub"]
+  },
+  {
+    "id": "pc-paris",
+    "name": "Porsche Centre Paris Montparnasse",
+    "city": "Paris",
+    "country": "France",
+    "address": "145 Boulevard du Montparnasse, 75006 Paris",
+    "phone": "+33 1 53 91 21 00",
+    "email": "contact@porsche-paris.fr",
+    "openingHours": "Mon - Fri: 08:30 - 19:00, Sat: 09:30 - 18:30",
+    "coordinates": { "lat": 48.8416, "lng": 2.3328 },
+    "services": ["New Vehicles", "Exclusive Manufaktur Partner", "Concierge Service", "Porsche Tequipment"]
+  },
+  {
+    "id": "pc-dubai",
+    "name": "Porsche Centre Dubai Downtown",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "address": "Sheikh Zayed Road, Near Financial Metro, Dubai",
+    "phone": "+971 4 305 8555",
+    "email": "dubai@porsche-alnabooda.com",
+    "openingHours": "Sat - Thu: 09:00 - 20:00, Fri: 16:00 - 20:00",
+    "coordinates": { "lat": 25.2048, "lng": 55.2708 },
+    "services": ["New Vehicles", "Exclusive Manufaktur Flagship", "Porsche Approved", "VIP Private Fitting Suite"]
+  },
+  {
+    "id": "pc-zurich",
+    "name": "Porsche Centre Zurich Schlieren",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "address": "Bernstrasse 59, 8952 Schlieren, Zurich",
+    "phone": "+41 44 733 49 11",
+    "email": "info@porsche-zuerich.ch",
+    "openingHours": "Mon - Fri: 08:00 - 18:30, Sat: 09:00 - 16:00",
+    "coordinates": { "lat": 47.3976, "lng": 8.4485 },
+    "services": ["New Vehicles", "Porsche Approved Pre-Owned", "Classic Partner", "Race Car Service"]
+  },
+  {
+    "id": "pc-new-york",
+    "name": "Porsche Studio Manhattan",
+    "city": "New York",
+    "country": "United States",
+    "address": "500 W 25th St, New York, NY 10001",
+    "phone": "+1 212 594 7770",
+    "email": "studio@porschemanhattan.com",
+    "openingHours": "Mon - Sat: 09:00 - 19:00",
+    "coordinates": { "lat": 40.7505, "lng": -74.0048 },
+    "services": ["Urban Studio", "Digital Configurator Lounge", "Test Drive Concierge", "Porsche Design Boutique"]
+  },
+  {
+    "id": "pc-tokyo",
+    "name": "Porsche Centre Tokyo Ginza",
+    "city": "Tokyo",
+    "country": "Japan",
+    "address": "7-17-15 Ginza, Chuo-ku, Tokyo 104-0061",
+    "phone": "+81 3 3546 0911",
+    "email": "ginza@porsche.co.jp",
+    "openingHours": "Tue - Sun: 10:00 - 18:30",
+    "coordinates": { "lat": 35.6669, "lng": 139.7671 },
+    "services": ["New Vehicles", "Exclusive Manufaktur Partner", "Porsche Drive Rental", "Motorsport Corner"]
+  }
+]
